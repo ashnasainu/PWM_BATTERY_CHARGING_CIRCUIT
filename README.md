@@ -1,14 +1,14 @@
-# PWM Battery Charging Circuit
+# Solar_PWM_Battery_Charging
 
 ## Project Overview
-A battery charging circuit project implemented on STM8S microcontroller using Pulse Width Modulation (PWM) and ADC for voltage monitoring.
+A Solar battery charging project implemented on STM8S microcontroller using Pulse Width Modulation (PWM) and ADC for voltage monitoring.
 
 ## Hardware Requirements
 - STM8S103 microcontroller
 - 16x2 LCD display
 - Voltage divider circuit (11x attenuation)
 - Battery to be charged
-- Power supply for the circuit
+- Power supply
 
 ## Pin Configuration
 ### LCD Connections:
